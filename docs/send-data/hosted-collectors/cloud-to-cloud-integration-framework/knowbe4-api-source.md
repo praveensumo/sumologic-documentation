@@ -7,7 +7,7 @@ description: This document explains how to configure the KnowBe4 Cloud-to-Cloud 
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-The KnowBe4 API integration collects user data into Sumo Logic to store, analyze and alert. It ingests events data from the [Events API](https://developer.knowbe4.com/rest/userEvents#tag/Events/operation/listEvents).
+The KnowBe4 API integration collects user data into Sumo Logic to store, analyze and alert. It ingests events data from the [Events API](https://developer.knowbe4.com/rest/userEvents#tag/Events/operation/listEvents).Testing
 
 :::note
 To access the Knowbe4 API, you must have either the Platinum or Diamond user plan.
